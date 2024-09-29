@@ -1,0 +1,101 @@
+name: vocabuddy
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.1.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.0
+  just_audio: ^0.9.38
+  flutter_sound: ^9.2.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/audio/number_One.mp3
+    - assets/audio/number_Two.mp3
+    - assets/audio/number_Three.mp3
+    - assets/audio/number_Four.mp3
+    - assets/audio/number_Five.mp3
+    - assets/audio/welcome_voice.mp3
+    - assets/audio/alphabet_a.mp3
+    - assets/audio/alphabets_b.mp3
+    - assets/audio/cat.mp3
+    - assets/audio/dog.mp3
+    - assets/audio/elephant.mp3
+    - assets/audio/frog.mp3
+    - assets/audio/giraffe.mp3
+    - assets/audio/horse.mp3
+    - assets/audio/icecream.mp3
+    - assets/audio/jug.mp3
+    - assets/audio/kite.mp3
+    - assets/audio/lion.mp3
+    - assets/audio/monkey.mp3
+    - assets/audio/nuts.mp3
+    - assets/audio/owl.mp3
+    - assets/audio/peacock.mp3
+    - assets/audio/quiet.mp3
+    - assets/audio/rat.mp3
+    - assets/audio/sun.mp3
+    - assets/audio/tiger.mp3
+    - assets/audio/umbrella.mp3
+    - assets/audio/vehicle.mp3
+    - assets/audio/watermelon.mp3
+    - assets/audio/xmax.mp3
+    - assets/audio/yak.mp3
+    - assets/audio/zebra.mp3
+    - assets/welcome_bg.jpg
+    - assets/alphabets.png
+    - assets/welcome_animation.gif
+    - assets/students_learn.png
+    - assets/audio/next_step.mp3
+    - assets/numbers.jpg
+    - assets/exit_button.png
+    - assets/train_moves.gif
+    - assets/logout_button.png
+    - assets/alphabet_a.png
+    - assets/home_button.png
+    - assets/number_one.jpg
+    - assets/number_two.jpg
+    - assets/number_three.jpg
+    - assets/number_four.jpg
+    - assets/number_five.jpg
+    - assets/children_dance.gif
+    - assets/next_button.png
+    - assets/cute-happy-kids.jpg
+    - assets/car_moving.gif
+    - assets/Alphabet_b.jpg
+    - assets/Alphabet_c.jpg
+    - assets/Alphabet_d.jpg
+    - assets/Alphabet_e.jpg
+    - assets/Alphabet_f.jpg
+    - assets/Alphabet_g.jpg
+    - assets/Alphabet_h.jpg
+    - assets/Alphabet_i.jpg
+    - assets/Alphabet_j.jpg
+    - assets/Alphabet_k.jpg
+    - assets/Alphabet_l.jpg
+    - assets/Alphabet_m.jpg
+    - assets/Alphabet_n.jpg
+    - assets/Alphabet_o.jpg
+    - assets/Alphabet_p.jpg
+    - assets/Alphabet_q.jpg
+    - assets/Alphabet_r.jpg
+    - assets/Alphabet_s.jpg
+    - assets/Alphabet_t.jpg
+    - assets/Alphabet_u.jpg
+    - assets/Alphabet_v.jpg
+    - assets/Alphabet_w.jpg
+    - assets/Alphabet_x.jpg
+    - assets/Alphabet_y.jpg
+    - assets/Alphabet_z.jpg
